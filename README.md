@@ -6,5 +6,4 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 
 **Vector Graphics:** [Inkscape](https://inkscape.org/en/)
 
-**Both at Once:** [Gimp](http://www.gimp.org/)
-(It's like ambidextrious image editing, except not at all like that.)
+**Both at Once:** [Gimp](http://www.gimp.org/) (It's like ambidextrious image editing, except not at all like that.)
