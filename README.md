@@ -6,7 +6,7 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 [Paint.NET](http://www.getpaint.net/index.html)
 
 ###### Vector Graphics
-Inkscape is the best for Vector, hands down.
+[Inkscape](https://inkscape.org/en/)
 
 ###### Both at Once
 (It's like ambidextrious image editing, except not at all like that.)  
