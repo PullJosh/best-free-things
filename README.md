@@ -36,3 +36,9 @@ LaTeX WYSIWYM Editor: [LyX](http://www.lyx.org/) *(Great for math and science)*
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
 General Code (all languages):  [Atom](https://atom.io/) *(fancy, new editor)*, [Notepad++](https://notepad-plus-plus.org/) *(old school editor)*
+
+## Terminal/Command Line Replacements
+
+Windows: [Cmder](http://cmder.net/)
+
+OS X: [iTerm2](https://www.iterm2.com/)
