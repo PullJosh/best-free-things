@@ -29,7 +29,7 @@ Full-featured online editor with auto-save, live multi-person editing, and more:
 
 Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/)
 
-LaTeX WYSIWYM Editor: [LyX](http://www.lyx.org/) (Great for math/science-y stuff)
+LaTeX WYSIWYM Editor: [LyX](http://www.lyx.org/) *(Great for math and science)*
 
 ## Code Editing
 
