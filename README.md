@@ -60,3 +60,13 @@ Sheet Music: [MuseScore](https://musescore.org/)
 Chiptune/8-bit: [Famitracker](http://famitracker.com/)
 
 Synthesizer & Music Maker: [LMMS](https://lmms.io/)
+
+## File Management
+
+### File Compression
+
+Easy-to-use compressor: [7zip](http://www.7-zip.org/)
+
+### File Explorer Alternative
+
+Add Google Chrome-style tabs to the Windows file explorer: [Clover](http://ejie.me/)
