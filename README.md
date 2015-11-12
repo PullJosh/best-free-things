@@ -22,22 +22,30 @@ Offline only, also takes animated GIFs: [Gyazo](https://gyazo.com/) *(NOTE: I ga
 
 Windows-only, no automatic upload: [Snipping Tool](http://windows.microsoft.com/en-us/windows/use-snipping-tool-capture-screen-shots#1TC=windows-8) *(Most likely came with Windows)*
 
+## Video
+### Video Hosting
+Popular & Often-used: [Youtube](http://youtube.com/)
+
+Less comments, more video: [Vimeo](http://vimeo.com/)
+
+### Video Playing
+Also has minor editing ability: (VLC)[http://www.videolan.org/vlc/index.html]
+
 ## Text Editing
+### Editing for Douments
 **(And also spreadsheets, presentations, etc. Basically free Microsoft Office.)**
 
 Full-featured online editor with auto-save, live multi-person editing, and more: [Google Docs](http://docs.google.com/) *(Also known as Google Drive. Docs and drive aren't technically the same thing, but they pretty much are. I don't understand either.)*
 
 Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/)
 
-LaTeX WYSIWYM Editor: [LyX](http://www.lyx.org/) *(Great for math and science)*
-
-## Code Editing
+### Code Editing
 
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
-General Code (all languages):  [Atom](https://atom.io/) *(fancy, new editor)*, [Notepad++](https://notepad-plus-plus.org/) *(old school editor)*
+General Code (all languages):  [Atom](https://atom.io/)
 
-## Terminal/Command Line Replacements
+### Terminal/Command Line Replacements
 
 Windows: [Cmder](http://cmder.net/)
 
