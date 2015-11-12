@@ -59,7 +59,7 @@ Sheet Music: [MuseScore](https://musescore.org/)
 
 Chiptune/8-bit: [Famitracker](http://famitracker.com/)
 
-Synthesizer & Music Maker: [LMMS](https://lmms.io/)
+Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
 
 ## File Management
 
