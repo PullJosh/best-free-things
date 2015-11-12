@@ -13,7 +13,7 @@ Both at Once: [Gimp](http://www.gimp.org/) *(It's like ambidextrious image editi
 ### Image Hosting
 Clean interface with no ads (no account required): [Cubeupload](http://cubeupload.com/)
 
-Professional-looking host with a few adds (needs account): [Photobucket](http://photobucket.com/)
+Professional-looking host with a few ads (needs account): [Photobucket](http://photobucket.com/)
 
 ### Image Taking (screenshots)
 In-browser or offline, automatic uploading: [Lightshot](https://app.prntscr.com/)
@@ -33,6 +33,6 @@ LaTeX WYSIWYM Editor: [LyX](http://www.lyx.org/) *(Great for math and science)*
 
 ## Code Editing
 
-Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/) *(personal favorite)*, [Atom](https://atom.io/)
+Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
-General Code (all languages): [Sublime Text](http://www.sublimetext.com/) *(fancy, new editor)*, [Notepad++](https://notepad-plus-plus.org/) *(old school editor)*
+General Code (all languages):  [Atom](https://atom.io/) *(fancy, new editor)*, [Notepad++](https://notepad-plus-plus.org/) *(old school editor)*
