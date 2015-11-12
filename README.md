@@ -52,3 +52,11 @@ Beginners' Lanuage and Editor: [Scratch](http://scratch.mit.edu/) *(Great commun
 Windows: [Cmder](http://cmder.net/)
 
 OS X: [iTerm2](https://www.iterm2.com/)
+
+## Music Making
+
+Sheet Music: [MuseScore](https://musescore.org/)
+
+Chiptune/8-bit: [Famitracker](http://famitracker.com/)
+
+Synthesizer & Music Maker: [LMMS](https://lmms.io/)
