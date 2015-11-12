@@ -45,6 +45,8 @@ Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
 General Code (all languages):  [Atom](https://atom.io/)
 
+Beginners' Lanuage and Editor: [Scratch](http://scratch.mit.edu/) *(Great community for kids)*
+
 ### Terminal/Command Line Replacements
 
 Windows: [Cmder](http://cmder.net/)
