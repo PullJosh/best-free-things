@@ -29,6 +29,8 @@ Full-featured online editor with auto-save, live multi-person editing, and more:
 
 Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/)
 
+LaTeX WYSIWYM Editor: [LyX](http://www.lyx.org/) (Great for math/science-y stuff)
+
 ## Code Editing
 
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/) *(personal favorite)*, [Atom](https://atom.io/)
