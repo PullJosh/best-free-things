@@ -35,7 +35,7 @@ LaTeX WYSIWYM Editor: [LyX](http://www.lyx.org/) *(Great for math and science)*
 
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
-General Code (all languages):  [Atom](https://atom.io/) *(fancy, new editor)*<!--, [Notepad++](https://notepad-plus-plus.org/) *(old school editor)* -->
+General Code (all languages): [Atom](https://atom.io/) *(Fancy, new editor)*, [Sublime Text](http://www.sublimetext.com/) [(3)](http://www.sublimetext.com/3/) *(Very customizable)* _(NOTE: This will pop up an alert every few hours (that's how frequent it is for me) about maybe you should buy Sublime for $70. This is completely optional._
 
 ## Terminal/Command Line Replacements
 
