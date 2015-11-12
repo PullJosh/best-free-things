@@ -29,7 +29,7 @@ Popular & Often-used: [Youtube](http://youtube.com/)
 Less comments, more video: [Vimeo](http://vimeo.com/)
 
 ### Video Playing
-Also has minor editing ability: (VLC)[http://www.videolan.org/vlc/index.html]
+Also has minor editing ability: [VLC](http://www.videolan.org/vlc/index.html)
 
 ## Text Editing
 ### Editing for Douments
