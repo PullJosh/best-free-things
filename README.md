@@ -3,15 +3,13 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 
 ## Pictures
 ### Image Editing
-Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html)
+Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html), [Gimp](http://www.gimp.org/)
 
 Vector Graphics: [Inkscape](https://inkscape.org/en/)
 
-Both at Once: [Gimp](http://www.gimp.org/) *(It's like ambidextrious image editing, except not at all like that.)*
-
 
 ### Image Hosting
-Clean interface with no ads (no account required): [Cubeupload](http://cubeupload.com/)
+Clean interface with a few non-intrusive ads (no account required): [Cubeupload](http://cubeupload.com/)
 
 Professional-looking host with a few ads (needs account): [Photobucket](http://photobucket.com/)
 
@@ -44,7 +42,7 @@ Difficult to use, all-you-can eat buffet of features: [Lightworks](https://www.l
 Easy to use basic features: [Windows Movie Maker](http://windows.microsoft.com/en-us/windows/get-movie-maker-download), [iMovie](http://www.apple.com/mac/imovie/) *(comes free with mac computers)*
 
 ## Text Editing
-### Editing for Douments
+### Editing for Documents
 **(And also spreadsheets, presentations, etc. Basically free Microsoft Office.)**
 
 Full-featured online editor with auto-save, live multi-person editing, and more: [Google Docs](http://docs.google.com/) *(Also known as Google Drive. Docs and drive aren't technically the same thing, but they pretty much are. I don't understand either.)*
