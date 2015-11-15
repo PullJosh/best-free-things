@@ -29,11 +29,16 @@ Less comments, more video: [Vimeo](http://vimeo.com/)
 ### Video Playing
 Also has minor editing ability: [VLC](http://www.videolan.org/vlc/index.html)
 
-### Video Recording
+### Video Creating
+#### Video Recording
 
 Difficult to use, tons of options and features, no watermark: [OBS (Open Broadcaster Software)](https://obsproject.com/) *(Also does live-streams)*
 
 Easy to use, not many options, has watermark: [Bandicam](http://www.bandicam.com/)
+
+#### Animating
+
+3D Keyframe animation (and modeling): [Blender](http://www.blender.org/)
 
 ### Video Editing
 
