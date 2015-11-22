@@ -58,9 +58,11 @@ Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-f
 
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
+Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net)
+
 General Code (all languages):  [Atom](https://atom.io/)
 
-Beginners' Lanuage and Editor: [Scratch](http://scratch.mit.edu/) *(Great community for kids)*
+Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*
 
 ### Terminal/Command Line Replacements
 
@@ -73,6 +75,8 @@ OS X: [iTerm2](https://www.iterm2.com/)
 Sheet Music: [MuseScore](https://musescore.org/)
 
 Chiptune/8-bit: [Famitracker](http://famitracker.com/)
+
+Online Sheet Music: [flat.io](https://flat.io/)
 
 Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
 
