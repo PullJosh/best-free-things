@@ -58,9 +58,9 @@ Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-f
 
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
-Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net)
+Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net), [Codepen](http://codepen.io/)
 
-General Code (all languages):  [Atom](https://atom.io/)
+General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/)
 
 Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*
 
