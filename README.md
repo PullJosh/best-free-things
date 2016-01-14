@@ -60,7 +60,8 @@ Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
 Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net), [Codepen](http://codepen.io/)
 
-General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/)
+General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++]
+(https://notepad-plus-plus.org)
 
 Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*
 
