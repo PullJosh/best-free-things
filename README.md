@@ -82,7 +82,7 @@ Online Sheet Music: [flat.io](https://flat.io/)
 Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
 ## Music Library
 ### Classical Music Library
-A free and public domain library: [IMSLP.org](http://http://imslp.org/) 
+A free and public domain library: [IMSLP.org](http://imslp.org/) 
 
 ## File Management
 
