@@ -20,6 +20,8 @@ Offline only, also takes animated GIFs: [Gyazo](https://gyazo.com/) *(NOTE: I ga
 
 Windows-only, no automatic upload: [Snipping Tool](http://windows.microsoft.com/en-us/windows/use-snipping-tool-capture-screen-shots#1TC=windows-8) *(Most likely came with Windows)*
 
+Mac-only, no automatic upload: [CMD+SHIFT+4 and select area](https://support.apple.com/en-us/HT201361)
+
 ## Video
 ### Video Hosting
 Popular & Often-used: [Youtube](http://youtube.com/)
