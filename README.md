@@ -97,4 +97,4 @@ Add Google Chrome-style tabs to the Windows file explorer: [Clover](http://ejie.
 ## Internet
 ### Web Hosting
 Free, no ads and student friendly: [Gwiddle](https://gwiddle.co.uk)
-GitHub based hosting: [GitHub Pages](https://pages.github.com)
+Free and fast hosting with no backend: [GitHub Pages](https://pages.github.com)
