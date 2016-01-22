@@ -77,6 +77,8 @@ OS X: [iTerm2](https://www.iterm2.com/)
 
 Sheet Music: [MuseScore](https://musescore.org/)
 
+Text-based music making: [Lilypond](http://www.lilypond.org)
+
 Chiptune/8-bit: [Famitracker](http://famitracker.com/)
 
 Online Sheet Music: [flat.io](https://flat.io/)
