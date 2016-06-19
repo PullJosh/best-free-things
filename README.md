@@ -20,6 +20,8 @@ Offline only, also takes animated GIFs: [Gyazo](https://gyazo.com/) *(NOTE: I ga
 
 Windows-only, no automatic upload: [Snipping Tool](http://windows.microsoft.com/en-us/windows/use-snipping-tool-capture-screen-shots#1TC=windows-8) *(Most likely came with Windows)*
 
+Mac-only, no automatic upload: [CMD+SHIFT+4 and select area](https://support.apple.com/en-us/HT201361)
+
 ## Video
 ### Video Hosting
 Popular & Often-used: [Youtube](http://youtube.com/)
@@ -58,9 +60,12 @@ Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-f
 
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
-General Code (all languages):  [Atom](https://atom.io/)
+Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net), [Codepen](http://codepen.io/)
 
-Beginners' Lanuage and Editor: [Scratch](http://scratch.mit.edu/) *(Great community for kids)*
+General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++]
+(https://notepad-plus-plus.org)
+
+Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*
 
 ### Terminal/Command Line Replacements
 
@@ -72,9 +77,16 @@ OS X: [iTerm2](https://www.iterm2.com/)
 
 Sheet Music: [MuseScore](https://musescore.org/)
 
+Text-based music making: [Lilypond](http://www.lilypond.org)
+
 Chiptune/8-bit: [Famitracker](http://famitracker.com/)
 
+Online Sheet Music: [flat.io](https://flat.io/)
+
 Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
+## Music Library
+### Classical Music Library
+A free and public domain library: [IMSLP.org](http://imslp.org/) 
 
 ## File Management
 
@@ -85,3 +97,9 @@ Easy-to-use compressor: [7zip](http://www.7-zip.org/)
 ### File Explorer Alternative
 
 Add Google Chrome-style tabs to the Windows file explorer: [Clover](http://ejie.me/)
+
+## Internet
+### Web Hosting
+Free, no ads and student friendly: [Gwiddle](https://gwiddle.co.uk)
+
+Free and fast hosting with no backend: [GitHub Pages](https://pages.github.com)
