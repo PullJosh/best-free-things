@@ -81,7 +81,7 @@ Text-based music making: [Lilypond](http://www.lilypond.org)
 
 Chiptune/8-bit: [Famitracker](http://famitracker.com/)
 
-Online Sheet Music: [flat.io](https://flat.io/)
+Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com)
 
 Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
 ## Music Library
