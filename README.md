@@ -7,11 +7,15 @@ Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html), [Gimp](
 
 Vector Graphics: [Inkscape](https://inkscape.org/en/)
 
+Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](sketch.io/sketchpad)
+
 
 ### Image Hosting
 Clean interface with a few non-intrusive ads (no account required): [Cubeupload](http://cubeupload.com/)
 
 Professional-looking host with a few ads (needs account): [Photobucket](http://photobucket.com/)
+
+
 
 ### Image Taking (screenshots)
 In-browser or offline, automatic uploading: [Lightshot](https://app.prntscr.com/)
