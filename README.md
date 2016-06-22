@@ -26,6 +26,10 @@ Windows-only, no automatic upload: [Snipping Tool](http://windows.microsoft.com/
 
 Mac-only, no automatic upload: [CMD+SHIFT+4 and select area](https://support.apple.com/en-us/HT201361)
 
+### Game art
+Free game art and sounds: [OpenGameArt](http://opengameart.org/)
+
+
 ## Video
 ### Video Hosting
 Popular & Often-used: [Youtube](http://youtube.com/)
