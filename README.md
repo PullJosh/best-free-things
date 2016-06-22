@@ -27,8 +27,7 @@ Windows-only, no automatic upload: [Snipping Tool](http://windows.microsoft.com/
 Mac-only, no automatic upload: [CMD+SHIFT+4 and select area](https://support.apple.com/en-us/HT201361)
 
 ### Game art
-Free game art and sounds: [OpenGameArt](http://opengameart.org/)
-
+Free game art and sounds: [OpenGameArt](http://opengameart.org/), [Kenney Assets](http://kenney.nl/assets)
 
 ## Video
 ### Video Hosting
