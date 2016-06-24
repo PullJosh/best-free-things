@@ -5,6 +5,8 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 ### Image Editing
 Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html), [Gimp](http://www.gimp.org/)
 
+Pixel art: [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, but you can download the source and compile for free)*
+
 Vector Graphics: [Inkscape](https://inkscape.org/en/)
 
 Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](sketch.io/sketchpad)
@@ -71,6 +73,8 @@ Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net), [Codepen](http://codepen.i
 
 General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++]
 (https://notepad-plus-plus.org)
+
+IDEs for most languages: [JetBrains](https://www.jetbrains.com/) *([free if you're a student](https://www.jetbrains.com/student/), paid otherwise)*
 
 Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*
 
