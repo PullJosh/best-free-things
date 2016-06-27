@@ -107,12 +107,14 @@ Easy-to-use compressor: [7zip](http://www.7-zip.org/)
 
 ### File Explorer Alternative
 
-Add Google Chrome-style tabs to the Windows file explorer: [Clover](http://ejie.me/)
+Add Google Chrome-style tabs to the Windows file explorer: [Clover](http://ejie.me/)  
 
 ## Internet
 ### Web Hosting
 Free, no ads and student friendly: [Gwiddle](https://gwiddle.co.uk)
 
-Free, has addons and elements to make setup easy: [heroku](https://heroku.com)
+Free, has addons and elements to make setup easy: [heroku](https://heroku.com)  
+
+Free, easy to use cloud hosting: [openshift](http://openshift.com)
 
 Free and fast hosting with no backend: [GitHub Pages](https://pages.github.com)
