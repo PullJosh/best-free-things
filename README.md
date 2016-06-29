@@ -78,6 +78,10 @@ IDEs for most languages: [JetBrains](https://www.jetbrains.com/) *([free if you'
 
 Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*
 
+### Game Engines
+Full 3D engines: [Unity](https://unity3d.com/), [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) *(Free for personal use, licenses and revenue sharing for commercial use.)*
+Lightweight HTML5 game engine: [Phaser](http://phaser.io/)
+
 ### Terminal/Command Line Replacements
 
 Windows: [Cmder](http://cmder.net/)
