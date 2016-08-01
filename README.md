@@ -9,7 +9,7 @@ Pixel art: [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, bu
 
 Vector Graphics: [Inkscape](https://inkscape.org/en/)
 
-Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](sketch.io/sketchpad)
+Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](https://sketch.io/sketchpad)
 
 
 ### Image Hosting
