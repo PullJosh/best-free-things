@@ -100,9 +100,11 @@ Chiptune/8-bit: [Famitracker](http://famitracker.com/)
 Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com)
 
 Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
-## Music Library
-### Classical Music Library
+## Sound Library
+### Classical Music
 A free and public domain library: [IMSLP.org](http://imslp.org/) 
+### Sound Effects
+Free, sound effects library: [Zapsplat.com](http://zapsplat.com) *(You can get a paid account too and the money will be donated to charity. You will have to wait 10 seconds to download if you're using a basic account)*
 
 ## File Management
 
