@@ -7,6 +7,8 @@ Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html), [Gimp](
 
 Pixel art: [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, but you can download the source and compile for free)*
 
+Drawing: [MediBand Paint Pro](http://medibangpaint.com/en/pc/)
+
 Vector Graphics: [Inkscape](https://inkscape.org/en/)
 
 Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](https://sketch.io/sketchpad)
