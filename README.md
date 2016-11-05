@@ -3,7 +3,7 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 
 ## Pictures
 ### Image Editing
-Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html), [Gimp](http://www.gimp.org/)
+Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html)/[Pinta](https://pinta-project.com/pintaproject/pinta/), [Gimp](http://www.gimp.org/)
 
 Pixel art: [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, but you can download the source and compile for free)*
 
