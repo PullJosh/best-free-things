@@ -55,7 +55,7 @@ Easy to use, not many options, has watermark: [Bandicam](http://www.bandicam.com
 
 ### Video Editing
 
-Difficult to use, all-you-can eat buffet of features: [Lightworks](https://www.lwks.com/) *(There is a paid version of lightworks. Just get the free one. See the blue "Lightworks Free" header on the homepage.)*
+Difficult to use, all-you-can eat buffet of features: [Lightworks](https://www.lwks.com/) *(There is a paid version of lightworks. Just get the free one. See the blue "Lightworks Free" header on the homepage.)*, [DaVinci Resolve](https://www.blackmagicdesign.com/uk/products/davinciresolve) *Primarily for colour grading, but has a fairly robust video editing component as well.*
 
 Easy to use basic features: [Windows Movie Maker](http://windows.microsoft.com/en-us/windows/get-movie-maker-download), [iMovie](http://www.apple.com/mac/imovie/) *(comes free with mac computers)*
 
