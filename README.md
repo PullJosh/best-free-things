@@ -91,6 +91,8 @@ Windows: [Cmder](http://cmder.net/) or [Hyper](http://hyper.is/)
 
 OS X: [iTerm2](https://www.iterm2.com/) or [Hyper](http://hyper.is/)
 
+Linux: [Hyper](http://hyper.is/)
+
 ## Music Making
 
 Sheet Music: [MuseScore](https://musescore.org/)
