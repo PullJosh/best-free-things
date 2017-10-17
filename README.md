@@ -127,3 +127,5 @@ Free, has addons and elements to make setup easy: [heroku](https://heroku.com)
 Free, easy to use cloud hosting: [openshift](http://openshift.com)
 
 Free and fast hosting with no backend: [GitHub Pages](https://pages.github.com)
+
+More free and fast hosting with no backend: [Gitlab Pages](https://about.gitlab.com/features/pages/) *(comes with free private repos meaning your website code is not publicly available)*
