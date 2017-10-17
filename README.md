@@ -87,9 +87,9 @@ Lightweight HTML5 game engine: [Phaser](http://phaser.io/)
 
 ### Terminal/Command Line Replacements
 
-Windows: [Cmder](http://cmder.net/)
+Windows: [Cmder](http://cmder.net/) or [Hyper](http://hyper.is/)
 
-OS X: [iTerm2](https://www.iterm2.com/)
+OS X: [iTerm2](https://www.iterm2.com/) or [Hyper](http://hyper.is/)
 
 ## Music Making
 
