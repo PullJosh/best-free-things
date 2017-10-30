@@ -3,16 +3,17 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 
 ## Pictures
 ### Image Editing
-Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html)/[Pinta](https://pinta-project.com/pintaproject/pinta/), [Gimp](http://www.gimp.org/)
+Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html),[Pinta](https://pinta-project.com/pintaproject/pinta/), [Gimp](http://www.gimp.org/), [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/)
 
 Pixel art: [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, but you can download the source and compile for free)*
 
 Drawing: [MediBand Paint Pro](http://medibangpaint.com/en/pc/)
 
-Vector Graphics: [Inkscape](https://inkscape.org/en/)
+Vector Graphics: [Inkscape](https://inkscape.org/en/), [Pencil Project](https://pencil.evolus.vn/)
 
 Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](https://sketch.io/sketchpad)
 
+Diagrams : [draw.io](https://www.draw.io/)
 
 ### Image Hosting
 Clean interface with a few non-intrusive ads (no account required): [Cubeupload](http://cubeupload.com/)
@@ -41,6 +42,8 @@ Less comments, more video: [Vimeo](http://vimeo.com/)
 
 ### Video Playing
 Also has minor editing ability: [VLC](http://www.videolan.org/vlc/index.html)
+
+Windows only: [MPC-HC](https://mpc-hc.org/downloads/)
 
 ### Video Creating
 #### Video Recording
