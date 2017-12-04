@@ -40,6 +40,7 @@ Popular & Often-used: [Youtube](http://youtube.com/)
 
 Less comments, more video: [Vimeo](http://vimeo.com/)
 
+Even less comments, only video: [Streamable](https://streamable.com/)
 ### Video Playing
 Also has minor editing ability: [VLC](http://www.videolan.org/vlc/index.html)
 
