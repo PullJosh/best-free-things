@@ -11,7 +11,7 @@ Drawing: [MediBand Paint Pro](http://medibangpaint.com/en/pc/)
 
 Vector Graphics: [Inkscape](https://inkscape.org/en/), [Pencil Project](https://pencil.evolus.vn/)
 
-Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](https://sketch.io/sketchpad)
+Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](https://sketch.io/sketchpad), [Pixlr](https://pixlr.com/)
 
 Diagrams : [draw.io](https://www.draw.io/)
 
@@ -39,6 +39,8 @@ Free game art and sounds: [OpenGameArt](http://opengameart.org/), [Kenney Assets
 Popular & Often-used: [Youtube](http://youtube.com/)
 
 Less comments, more video: [Vimeo](http://vimeo.com/)
+
+Dying, needs support: [Vid.me](http://vid.me/)
 
 ### Video Playing
 Also has minor editing ability: [VLC](http://www.videolan.org/vlc/index.html)
@@ -70,7 +72,10 @@ Full-featured online editor with auto-save, live multi-person editing, and more:
 
 Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/)
 
+Markup Editor: [Left](https://hundredrabbits.itch.io/left)
+
 ### Code Editing
+General Purpose Online IDE: [Cloud9](https://c9.io) *has paid plans, you can get a free plan though*
 
 Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
@@ -86,6 +91,8 @@ Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great commu
 
 ### Game Engines
 Full 3D engines: [Unity](https://unity3d.com/), [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) *(Free for personal use, licenses and revenue sharing for commercial use.)*
+
+Lightweight, for beginners: [RayLib](http://www.raylib.com/index.html)
 
 Lightweight HTML5 game engine: [Phaser](http://phaser.io/)
 
