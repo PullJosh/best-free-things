@@ -3,14 +3,17 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 
 ## Pictures
 ### Image Editing
-Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html), [Gimp](http://www.gimp.org/)
+Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html),[Pinta](https://pinta-project.com/pintaproject/pinta/), [Gimp](http://www.gimp.org/), [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/)
 
 Pixel art: [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, but you can download the source and compile for free)*
 
-Vector Graphics: [Inkscape](https://inkscape.org/en/)
+Drawing: [MediBand Paint Pro](http://medibangpaint.com/en/pc/)
 
-Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](sketch.io/sketchpad)
+Vector Graphics: [Inkscape](https://inkscape.org/en/), [Pencil Project](https://pencil.evolus.vn/)
 
+Online bitmap/PDF/.sketchpad (whatever that is): [Sketch.io Sketchpad](https://sketch.io/sketchpad)
+
+Diagrams : [draw.io](https://www.draw.io/)
 
 ### Image Hosting
 Clean interface with a few non-intrusive ads (no account required): [Cubeupload](http://cubeupload.com/)
@@ -40,6 +43,8 @@ Less comments, more video: [Vimeo](http://vimeo.com/)
 ### Video Playing
 Also has minor editing ability: [VLC](http://www.videolan.org/vlc/index.html)
 
+Windows only: [MPC-HC](https://mpc-hc.org/downloads/)
+
 ### Video Creating
 #### Video Recording
 
@@ -53,7 +58,7 @@ Easy to use, not many options, has watermark: [Bandicam](http://www.bandicam.com
 
 ### Video Editing
 
-Difficult to use, all-you-can eat buffet of features: [Lightworks](https://www.lwks.com/) *(There is a paid version of lightworks. Just get the free one. See the blue "Lightworks Free" header on the homepage.)*
+Difficult to use, all-you-can eat buffet of features: [Lightworks](https://www.lwks.com/) *(There is a paid version of lightworks. Just get the free one. See the blue "Lightworks Free" header on the homepage.)*, [DaVinci Resolve](https://www.blackmagicdesign.com/uk/products/davinciresolve) *Primarily for colour grading, but has a fairly robust video editing component as well.*
 
 Easy to use basic features: [Windows Movie Maker](http://windows.microsoft.com/en-us/windows/get-movie-maker-download), [iMovie](http://www.apple.com/mac/imovie/) *(comes free with mac computers)*
 
@@ -71,8 +76,9 @@ Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
 Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net), [Codepen](http://codepen.io/)
 
-General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++]
-(https://notepad-plus-plus.org)
+General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org)
+
+All languages, has a debugger, terminal, as well as git and extension support: [VS Code](https://code.visualstudio.com/)
 
 IDEs for most languages: [JetBrains](https://www.jetbrains.com/) *([free if you're a student](https://www.jetbrains.com/student/), paid otherwise)*
 
@@ -100,9 +106,11 @@ Chiptune/8-bit: [Famitracker](http://famitracker.com/)
 Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com)
 
 Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
-## Music Library
-### Classical Music Library
+## Sound Library
+### Classical Music
 A free and public domain library: [IMSLP.org](http://imslp.org/) 
+### Sound Effects
+Free, sound effects library: [Zapsplat.com](http://zapsplat.com) *(You can get a paid account too and the money will be donated to charity. You will have to wait 10 seconds to download if you're using a basic account)*
 
 ## File Management
 
