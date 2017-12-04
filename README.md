@@ -76,8 +76,7 @@ Code for the front-end web (HTML, CSS, JS, etc): [Brackets](http://brackets.io/)
 
 Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net), [Codepen](http://codepen.io/)
 
-General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++]
-(https://notepad-plus-plus.org)
+General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org)
 
 All languages, has a debugger, terminal, as well as git and extension support: [VS Code](https://code.visualstudio.com/)
 
