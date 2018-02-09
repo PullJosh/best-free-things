@@ -51,7 +51,7 @@ Windows only: [MPC-HC](https://mpc-hc.org/downloads/)
 
 Difficult to use, tons of options and features, no watermark: [OBS (Open Broadcaster Software)](https://obsproject.com/) *(Also does live-streams)*
 
-Easy to use, not many options, has watermark: [Bandicam](http://www.bandicam.com/)
+Easy to use, not many options, has watermark: [Bandicam](http://www.bandicam.com/), [Screencastify](https://www.screencastify.com/)
 
 #### Animating
 
@@ -67,7 +67,7 @@ Easy to use basic features: [Windows Movie Maker](http://windows.microsoft.com/e
 ### Editing for Documents
 **(And also spreadsheets, presentations, etc. Basically free Microsoft Office.)**
 
-Full-featured online editor with auto-save, live multi-person editing, and more: [Google Docs](http://docs.google.com/) *(Also known as Google Drive. Docs and drive aren't technically the same thing, but they pretty much are. I don't understand either.)*
+Full-featured online editor with auto-save, live multi-person editing, and more: [Google Docs](http://docs.google.com/) *(Also known as Google Drive. Docs and drive aren't technically the same thing. Docs is the text editor, Drive is the free cloud host thing.)*
 
 Offline Editor: [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/)
 
@@ -102,7 +102,7 @@ Sheet Music: [MuseScore](https://musescore.org/)
 
 Text-based music making: [Lilypond](http://www.lilypond.org)
 
-Chiptune/8-bit: [Famitracker](http://famitracker.com/)
+Chiptune/8-bit: [Famitracker](http://famitracker.com/), [Beepbox](http://beepbox.co)
 
 Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com)
 
@@ -130,5 +130,7 @@ Free, no ads and student friendly: [Gwiddle](https://gwiddle.co.uk)
 Free, has addons and elements to make setup easy: [heroku](https://heroku.com)  
 
 Free, easy to use cloud hosting: [openshift](http://openshift.com)
+
+Free, restricted file type unless you pay, frontend-only: [Neocities](https://neocities.org/)
 
 Free and fast hosting with no backend: [GitHub Pages](https://pages.github.com)
