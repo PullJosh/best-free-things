@@ -102,9 +102,7 @@ Sheet Music: [MuseScore](https://musescore.org/)
 
 Text-based music making: [Lilypond](http://www.lilypond.org)
 
-Chiptune/8-bit: [Famitracker](http://famitracker.com/)
-
-Online 8bit music: [Beepbox](http://beepbox.co)
+Chiptune/8-bit: [Famitracker](http://famitracker.com/), [Beepbox](http://beepbox.co)
 
 Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com)
 
