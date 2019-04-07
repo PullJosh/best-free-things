@@ -5,7 +5,7 @@ If you're cheap like me, you want good free stuff. Here's a list of all my favor
 ### Image Editing
 Bitmap/Raster Graphics: [Paint.NET](http://www.getpaint.net/index.html),[Pinta](https://pinta-project.com/pintaproject/pinta/), [Gimp](http://www.gimp.org/), [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/)
 
-Pixel art: [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, but you can download the source and compile for free)*
+Pixel art: [Piskel](https://www.piskelapp.com), [Aseprite](http://www.aseprite.org/) *(Pre-compiled binaries cost, but you can download the source and compile for free)*
 
 Drawing: [MediBand Paint Pro](http://medibangpaint.com/en/pc/)
 
@@ -83,7 +83,7 @@ All languages, has a debugger, terminal, as well as git and extension support: [
 
 IDEs for most languages: [JetBrains](https://www.jetbrains.com/) *([free if you're a student](https://www.jetbrains.com/student/), paid otherwise)*
 
-Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*
+Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*, [Pencil Code](http://pencilcode.net/)
 
 ### Game Engines
 Full 3D engines: [Unity](https://unity3d.com/), [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) *(Free for personal use, licenses and revenue sharing for commercial use.)*
@@ -102,7 +102,7 @@ Sheet Music: [MuseScore](https://musescore.org/)
 
 Text-based music making: [Lilypond](http://www.lilypond.org)
 
-Chiptune/8-bit: [Famitracker](http://famitracker.com/), [Beepbox](http://beepbox.co)
+Chiptune/8-bit: [Famitracker](http://famitracker.com/), [Beepbox](http://beepbox.co), [ModBox](https://moddedbeepbox.github.io/3.0/) *(A modded version of beepbox with more sounds and instruments)*
 
 Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com)
 
