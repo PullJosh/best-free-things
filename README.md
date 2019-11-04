@@ -81,7 +81,7 @@ General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://w
 
 All languages, has a debugger, terminal, as well as git and extension support: [VS Code](https://code.visualstudio.com/)
 
-IDEs for most languages: [JetBrains](https://www.jetbrains.com/) *([free if you're a student](https://www.jetbrains.com/student/), paid otherwise)*
+IDEs for most languages: [JetBrains](https://www.jetbrains.com/) *([free if you're a student](https://www.jetbrains.com/student/), paid otherwise)*, [repl.it](https://repl.it/) *(supports nearly all languages; instant output)*
 
 Beginners' Lanuage and Editor: [Scratch](https://scratch.mit.edu/) *(Great community for kids)*, [Pencil Code](http://pencilcode.net/)
 
