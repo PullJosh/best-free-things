@@ -125,6 +125,8 @@ Add Google Chrome-style tabs to the Windows file explorer: [Clover](http://ejie.
 
 ## Internet
 ### Web Hosting
+Free, no ads, easy to use, runs almost any Linux-based server: [Glitch](https://glitch.com)
+
 Free, no ads and student friendly: [Gwiddle](https://gwiddle.co.uk)
 
 Free, has addons and elements to make setup easy: [heroku](https://heroku.com)  
