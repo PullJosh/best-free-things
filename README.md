@@ -104,7 +104,7 @@ Text-based music making: [Lilypond](http://www.lilypond.org)
 
 Chiptune/8-bit: [Famitracker](http://famitracker.com/), [Beepbox](http://beepbox.co), [ModBox](https://moddedbeepbox.github.io/3.0/) *(A modded version of beepbox with more sounds and instruments)*
 
-Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com)
+Online Sheet Music: [flat.io](https://flat.io/), [Noteflight](noteflight.com), [Soundslice](https://www.soundslice.com/)
 
 Digital Audio Workstation (DAW): [LMMS](https://lmms.io/)
 ## Sound Library
