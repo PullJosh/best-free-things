@@ -79,7 +79,7 @@ Online JS/HTML/CSS: [JSFiddle](https://jsfiddle.net), [Codepen](http://codepen.i
 
 General Code (all languages):  [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org)
 
-All languages, has a debugger, terminal, as well as git and extension support: [VS Code](https://code.visualstudio.com/)
+All languages, has a debugger, terminal, as well as git and extension support: [VS Code](https://code.visualstudio.com/), [Vim](https://www.vim.org/)
 
 IDEs for most languages: [JetBrains](https://www.jetbrains.com/) *([free if you're a student](https://www.jetbrains.com/student/), paid otherwise)*, [repl.it](https://repl.it/) *(supports nearly all languages; instant output)*
 
