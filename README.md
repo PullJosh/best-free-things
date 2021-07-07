@@ -92,9 +92,11 @@ Lightweight HTML5 game engine: [Phaser](http://phaser.io/)
 
 ### Terminal/Command Line Replacements
 
-Windows: [Cmder](http://cmder.net/)
+Windows: [Cmder](http://cmder.net/) or [Hyper](http://hyper.is/)
 
-OS X: [iTerm2](https://www.iterm2.com/)
+OS X: [iTerm2](https://www.iterm2.com/) or [Hyper](http://hyper.is/)
+
+Linux: [Hyper](http://hyper.is/)
 
 ## Music Making
 
@@ -134,3 +136,5 @@ Free, easy to use cloud hosting: [openshift](http://openshift.com)
 Free, restricted file type unless you pay, frontend-only: [Neocities](https://neocities.org/)
 
 Free and fast hosting with no backend: [GitHub Pages](https://pages.github.com)
+
+More free and fast hosting with no backend: [Gitlab Pages](https://about.gitlab.com/features/pages/) *(comes with free private repos meaning your website code is not publicly available)*
